@@ -17,4 +17,5 @@
    ```git
    git commit -m "add a new file"
    ```
-3. 
+3. <kbd>git status</kbd>，查看工作目录状态
+4. <kbd>git diff</kbd>，
